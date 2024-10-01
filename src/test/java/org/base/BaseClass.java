@@ -72,6 +72,9 @@ public class BaseClass {
 		build.stop();
 
 	}
+	public static void main(String[] args) {
+		System.out.println("QA works fine");
+	}
 	
 	
 }
